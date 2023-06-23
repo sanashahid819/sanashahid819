@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm sana shahid</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanashahid819&label=Profile%20views&color=0e75b6&style=flat" alt="sanashahid819" /> </p>
